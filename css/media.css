@@ -15,4 +15,7 @@
         font-size: 12px;
         font-weight: 600;
     }
+    .navbar-search {
+        width: 343px;
+    }
 }
