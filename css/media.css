@@ -1,6 +1,14 @@
 @media only screen and (max-width: 576px) {
     .site-header {
-        padding: px 80px 24px 80px;
+        align-items: center;
+        padding: 30px 16px 30px 16px;
+    }
+    .d-flex {
+        align-items: center;
+    }
+    .menu-img {
+        width: 16px;
+        height: 16px;
     }
     .header-name {
         color: #111517;
