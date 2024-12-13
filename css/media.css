@@ -1,0 +1,18 @@
+@media only screen and (max-width: 576px) {
+    .site-header {
+        padding: px 80px 24px 80px;
+    }
+    .header-name {
+        color: #111517;
+        font-family: "Nunito Sans";
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 20px; 
+    }
+    .menu-name {
+        color: #111517;
+        font-family: "Nunito Sans";
+        font-size: 12px;
+        font-weight: 600;
+    }
+}
