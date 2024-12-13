@@ -7,17 +7,17 @@
 @font-face {
     font-family: "Nunito Sans";
     src: url(../fonts/static/NunitoSans_10pt_Expanded-Light.ttf);
-    font-weight: 600;
-}
-
-@font-face {
-    font-family: "Nunito Sans";
-    src: url(../fonts/static/NunitoSans_10pt_Expanded-Regular.ttf);
     font-weight: 400;
 }
 
 @font-face {
     font-family: "Nunito Sans";
-    src: url(../fonts/static/NunitoSans_10pt_Expanded-SemiBold.ttf);
+    src: url(../fonts/static/NunitoSans_10pt_Expanded-Regular.ttf);
     font-weight: 300;
+}
+
+@font-face {
+    font-family: "Nunito Sans";
+    src: url(../fonts/static/NunitoSans_10pt_Expanded-SemiBold.ttf);
+    font-weight: 600;
 }

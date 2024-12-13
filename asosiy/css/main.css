@@ -11,3 +11,65 @@ a {
 ul {
     list-style: none;
 }
+li {
+    list-style: none;
+}
+/* site-header */
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 23px 80px 24px 80px;
+    background: #FFF;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.06);  
+}
+
+.header-name {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 24px;
+    font-weight: 800;
+}
+.header-menu {
+    display: flex;
+    gap: 8px;  
+}
+.menu-img {
+    width: 20px;
+    height: 20px;
+}
+.menu-name {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 600;
+}
+/* site-header */
+
+
+/* site-base */
+.site-base {
+    margin-top: 48px;
+}
+.navbar-search {
+    width: 480px;
+    height: 48px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+    border: 1px solid #fff;
+}
+.base-search {
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item {
+    width: 200px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 2px 9px 0px rgba(0, 0, 0, 0.05);
+}
