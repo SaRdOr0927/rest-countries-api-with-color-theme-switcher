@@ -26,4 +26,39 @@
     .navbar-search {
         width: 343px;
     }
+    .mobile {
+        gap: 40px;
+    }
+    .site-card2 {
+        padding-bottom: 65px;
+    }
+}
+@media only screen and (max-width: 590px) {
+    .site-header {
+        align-items: center;
+        padding: 30px 5px 30px 5px;
+    }
+    .d-flex {
+        align-items: center;
+    }
+    .menu-img {
+        width: 16px;
+        height: 16px;
+    }
+    .header-name {
+        color: #111517;
+        font-family: "Nunito Sans";
+        font-size: 14px;
+        font-weight: 800;
+        line-height: 20px; 
+    }
+    .menu-name {
+        color: #111517;
+        font-family: "Nunito Sans";
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .navbar-search {
+        width: 343px;
+    }
 }
