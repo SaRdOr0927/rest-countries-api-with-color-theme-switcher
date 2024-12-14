@@ -50,6 +50,7 @@
     }
     .germaniya-finish {
         align-items: center;
+        flex-direction: column;
     }
     .finish-about {
         margin-left: 0px;
