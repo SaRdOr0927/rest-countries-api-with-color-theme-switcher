@@ -116,7 +116,7 @@ li {
     font-weight: 300;
     line-height: 16px;
 }
-.d-flex {
+.flex-md-row {
     justify-content: space-between;
 }
 .card-img-top {
@@ -124,4 +124,104 @@ li {
 }
 .site-card2 {
     margin-top: 72px;
+    margin-bottom: 30px;
+}
+/* site-card */
+
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+
+/* Germany */
+.germaniya-about {
+    align-items: center;
+}
+.germaniyaa-menuu {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.germaniya-about__text {
+    margin-left: 120px;
+}
+.germaniya-link {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px; 
+    padding-top: 15px;
+    
+}
+.about-img {
+    width: 559.715px;
+    height: 400px;
+    border-radius: 10px;
+    margin-bottom: 70px;
+}
+.native-nav {
+    margin-top: 23px;
+    
+}
+.native-name {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 32px;  
+    font-weight: 800;
+    margin-bottom: 23px;
+}
+.native-link {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32px;
+}
+.link-nat {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 32px;
+}
+.nav-ger1 {
+    width: 407px;
+    gap: -5px;
+}
+.nav-ger {
+    width: 323px;
+}
+.native-nav {
+    column-gap: 10px;
+}
+.finish-menu {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px; 
+}
+.germaniya-finish {
+    align-items: center;
+}
+.link-textt {
+    color: #111517;
+    font-family: "Nunito Sans";
+    font-size: 14px; 
+    font-weight: 300;
+    width: 96px;   
+    border-radius: 2px;
+    border: 0px solid #979797;
+    background: #FFF;
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.10);  
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+.finish-about {
+    column-gap: 10px;
+    margin-left: 16px;
 }
