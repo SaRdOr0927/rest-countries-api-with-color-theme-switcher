@@ -32,6 +32,29 @@
     .site-card2 {
         padding-bottom: 65px;
     }
+    .about-img {
+        width: 510px;
+        height: 340px;
+        border-radius: 10px;
+    }
+    .germaniya-about__text {
+        text-align: left;
+        margin-left: 0px;
+    }
+    .nav-ger1 {
+        
+        width: 323px;
+    }
+    .nav-ger {
+        width: 323px;
+    }
+    .germaniya-finish {
+        align-items: center;
+    }
+    .finish-about {
+        margin-left: 0px;
+        margin-bottom: 30px;
+    }
 }
 @media only screen and (max-width: 590px) {
     .site-header {
